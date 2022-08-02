@@ -1,0 +1,25 @@
+.container{
+    /* border: 1px solid black; */
+    width: 50vw;
+    display: grid;
+    place-items: center;
+    margin: auto;
+    box-shadow: 20px 20px 30px black;
+    background-color: gainsboro;
+}
+
+.main_container{
+    /* border: 1px solid black; */
+    width: 30vw;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.adjust_size_container{
+    padding: 10px;
+}
+
+body{
+    height: 200vh;
+}
